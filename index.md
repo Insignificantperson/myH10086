@@ -1,8 +1,9 @@
+我们从零开始坐一个网页 
 <html>
   <body>
-    www
-</body>
+    这是？
+  </body>
   <head>
-没有刹东西
-</head>
-</html>
+    zheshi?
+  </head>
+  </html>
